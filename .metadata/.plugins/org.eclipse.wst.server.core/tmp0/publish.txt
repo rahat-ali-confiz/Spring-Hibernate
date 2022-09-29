@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Sep 13 17:12:21 PKT 2022
+org.eclipse.jst.jee.server\:/binary\:D\:\\Java\ Training\\Spring\ &\ Hibernate\ for\ Beginners\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\Java\ Training\\Spring\ &\ Hibernate\ for\ Beginners\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar

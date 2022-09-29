@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Java Training\Spring & Hibernate for Beginners\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3978898107.index
+3617312122.index
+2001555939.index
+4025798139.index
+2679894383.index
+97421977.index
+237508677.index
