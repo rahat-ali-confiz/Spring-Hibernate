@@ -6,8 +6,10 @@ import com.hibernate.jdbc.dto.InstructorDetail;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
+import org.hibernate.query.Query;
 
-public class EagerLazyDemo {
+
+public class FetchJoinDemo {
     public static void main(String[] args) {
 
         SessionFactory sessionFactory = new Configuration()
@@ -25,15 +27,25 @@ public class EagerLazyDemo {
             // start a transaction
             session.beginTransaction();
 
+            // option 2: Hibernate query with HQL
 
             // get the instructor from db
             int theId =1;
 
-            Instructor tempInstructor = session.get(Instructor.class,theId);
+            Query<Instructor> query =
+                    session.createQuery("select i from Instructor i " +
+                                    "JOIN FETCH i.courses " +
+                                    "where i.id=:theInstructorId",
+                            Instructor.class);
+
+            // set parameter on query
+            query.setParameter("theInstructorId",theId);
+
+            // execute query and get Instructor
+            Instructor tempInstructor = query.getSingleResult();
+
 
             System.out.println("luv2Code: Instructor: " + tempInstructor);
-
-            System.out.println("luv2Code: Courses: " + tempInstructor.getCourses());
 
             // commit transaction
             session.getTransaction().commit();
@@ -42,7 +54,7 @@ public class EagerLazyDemo {
             session.close();
 
             System.out.println("\nThe session is now closed\n");
-            // since courses are lazy loaded --- this should fail
+
             // get course for the instructor
             System.out.println("luv2Code: Courses: " + tempInstructor.getCourses());
 
