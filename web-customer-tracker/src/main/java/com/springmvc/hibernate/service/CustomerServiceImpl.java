@@ -2,8 +2,6 @@ package com.springmvc.hibernate.service;
 
 import com.springmvc.hibernate.dao.CustomerDAO;
 import com.springmvc.hibernate.entity.Customer;
-import org.hibernate.Session;
-import org.hibernate.query.Query;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -24,4 +22,13 @@ public class CustomerServiceImpl implements CustomerService {
     public List<Customer> getCustomers() {
         return customerDAO.getCustomers();
     }
+
+    @Override
+    @Transactional
+    public void saveCustomer(Customer theCustomer) {
+
+        customerDAO.saveCustomer(theCustomer);
+    }
+
+
 }

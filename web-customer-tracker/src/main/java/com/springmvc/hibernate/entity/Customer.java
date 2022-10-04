@@ -38,11 +38,11 @@ public class Customer {
         this.id = id;
     }
 
-    public String getFistName() {
+    public String getFirstName() {
         return firstName;
     }
 
-    public void setFistName(String firstName) {
+    public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
 
