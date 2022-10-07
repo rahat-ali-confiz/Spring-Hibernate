@@ -1,0 +1,7 @@
+com\springdemo\annotations\Fortune\FortuneService.class
+com\springdemo\annotations\Coach\TennisCoach.class
+com\springdemo\annotations\Coach\CricketCoach.class
+com\springdemo\annotations\AnnotationDemoApp.class
+com\springdemo\annotations\Fortune\HappyFortuneService.class
+com\springdemo\annotations\Fortune\SadFortuneService.class
+com\springdemo\annotations\Coach\Coach.class
