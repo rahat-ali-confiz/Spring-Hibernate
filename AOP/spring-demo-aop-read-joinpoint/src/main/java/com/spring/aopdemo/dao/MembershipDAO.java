@@ -1,0 +1,19 @@
+package com.spring.aopdemo.dao;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class MembershipDAO {
+
+    public boolean addSillyAccount(){
+
+        System.out.println(getClass() + ": DOING STUFF: ADDING A MEMBERSHIP ACCOUNT");
+        return true;
+    }
+
+    public boolean gpToSleep(){
+
+        System.out.println(getClass() + ": I'm going to sleep now...");
+        return true;
+    }
+}
