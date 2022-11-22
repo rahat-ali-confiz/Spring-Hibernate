@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-crm-rest-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-rest-demo-hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-add-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-rest-demo-pojo-student-list/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-rest-exception-handling-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-delete-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-update-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-rest-demo-pojo-student-single/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-get-all-customers/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-get-single-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-rest-global-exception-handling-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-rest-demo-pojo-student-list-refactored/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-global-exception-handling/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-01-procesing-json/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-02-nested-objects/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-spring-rest-demo-hello-world-with-jsp-home-page/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-04-ignore-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-03-nested-objects-and-arrays/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="16" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

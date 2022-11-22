@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring REST.iml" filepath="$PROJECT_DIR$/.idea/Spring REST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-01-procesing-json/jackson-databind-json-demo-01-processing-json.iml" filepath="$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-01-procesing-json/jackson-databind-json-demo-01-processing-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-02-nested-objects/jackson-databind-json-demo-02-nested-objects.iml" filepath="$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-02-nested-objects/jackson-databind-json-demo-02-nested-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-03-nested-objects-and-arrays/jackson-databind-json-demo-02-nested-objects-and-arrays.iml" filepath="$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-03-nested-objects-and-arrays/jackson-databind-json-demo-02-nested-objects-and-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-04-ignore-properties/jackson-databind-json-demo-04-ignore-properties.iml" filepath="$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-04-ignore-properties/jackson-databind-json-demo-04-ignore-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-crm-rest-demo/spring-crm-rest.iml" filepath="$PROJECT_DIR$/spring-crm-rest-demo/spring-crm-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-crm-rest-demo-add-customer/spring-crm-rest (1).iml" filepath="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-add-customer/spring-crm-rest (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-crm-rest-demo-delete-customer/spring-crm-rest (2).iml" filepath="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-delete-customer/spring-crm-rest (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-crm-rest-demo-update-customer/spring-crm-rest (3).iml" filepath="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-update-customer/spring-crm-rest (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-crm-rest-demo-get-all-customers/spring-crm-rest (4).iml" filepath="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-get-all-customers/spring-crm-rest (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-crm-rest-demo-get-single-customer/spring-crm-rest (5).iml" filepath="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-get-single-customer/spring-crm-rest (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-crm-rest-demo-global-exception-handling/spring-crm-rest (6).iml" filepath="$PROJECT_DIR$/solution-code-spring-crm-rest-demo-global-exception-handling/spring-crm-rest (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-rest-demo-hello-world/spring-rest-demo.iml" filepath="$PROJECT_DIR$/solution-code-spring-rest-demo-hello-world/spring-rest-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-rest-demo-pojo-student-list/spring-rest-demo (1).iml" filepath="$PROJECT_DIR$/solution-code-spring-rest-demo-pojo-student-list/spring-rest-demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-rest-exception-handling-demo/spring-rest-demo (2).iml" filepath="$PROJECT_DIR$/solution-code-spring-rest-exception-handling-demo/spring-rest-demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-rest-demo-pojo-student-single/spring-rest-demo (3).iml" filepath="$PROJECT_DIR$/solution-code-spring-rest-demo-pojo-student-single/spring-rest-demo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-rest-global-exception-handling-demo/spring-rest-demo (4).iml" filepath="$PROJECT_DIR$/solution-code-spring-rest-global-exception-handling-demo/spring-rest-demo (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-rest-demo-pojo-student-list-refactored/spring-rest-demo (5).iml" filepath="$PROJECT_DIR$/solution-code-spring-rest-demo-pojo-student-list-refactored/spring-rest-demo (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-rest-demo-hello-world-with-jsp-home-page/spring-rest-demo (6).iml" filepath="$PROJECT_DIR$/solution-code-spring-rest-demo-hello-world-with-jsp-home-page/spring-rest-demo (6).iml" />
+    </modules>
+  </component>
+</project>
