@@ -6,24 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-crm-rest (1)" />
-        <module name="spring-crm-rest (2)" />
         <module name="spring-crm-rest (3)" />
-        <module name="jackson-databind-json-demo-02-nested-objects-and-arrays" />
-        <module name="spring-crm-rest (4)" />
-        <module name="jackson-databind-json-demo-04-ignore-properties" />
-        <module name="jackson-databind-json-demo-01-processing-json" />
         <module name="spring-crm-rest" />
-        <module name="jackson-databind-json-demo-02-nested-objects" />
         <module name="spring-rest-demo (6)" />
-        <module name="spring-rest-demo (2)" />
-        <module name="spring-rest-demo (3)" />
-        <module name="spring-rest-demo (4)" />
         <module name="spring-rest-demo (5)" />
-        <module name="spring-rest-demo" />
         <module name="spring-crm-rest (5)" />
-        <module name="spring-crm-rest (6)" />
-        <module name="spring-rest-demo (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
